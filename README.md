@@ -1,2 +1,2 @@
 # git-demo  
-A test for git!
+A test of git!
